@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="64088bc1-c476-45c1-bad4-2696cf7b6b68" name="Default Changelist" comment="" />
+    <list default="true" id="64088bc1-c476-45c1-bad4-2696cf7b6b68" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/../frontend/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../frontend/src/logo.svg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +16,11 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="ProjectId" id="2FAod95qtF710rNaKZmuH4vxqTC" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -38,7 +48,9 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1663944334039</updated>
-      <workItem from="1663944335203" duration="4022000" />
+      <workItem from="1663944335203" duration="10930000" />
+      <workItem from="1664201807134" duration="10000" />
+      <workItem from="1664207515528" duration="55000" />
     </task>
     <servers />
   </component>
@@ -46,10 +58,18 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="13" y="95" key="#Live_Templates" timestamp="1664138918904">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="13" y="95" key="#Live_Templates/0.0.1440.900@0.0.1440.900" timestamp="1664138918904" />
     <state width="204" height="456" key="HiddenNamespacesPopup" timestamp="1663944844659">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state width="204" height="456" key="HiddenNamespacesPopup/0.0.1440.900@0.0.1440.900" timestamp="1663944844659" />
+    <state x="642" y="-1370" width="1131" height="716" key="dock-window-1" timestamp="1664196066864">
+      <screen x="-554" y="-1415" width="2560" height="1415" />
+    </state>
+    <state x="642" y="-1370" width="1131" height="716" key="dock-window-1/0.25.1440.816/-554.-1415.2560.1415@-554.-1415.2560.1415" timestamp="1664196066864" />
     <state x="424" y="226" width="591" height="476" key="find.popup" timestamp="1663945596662">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
