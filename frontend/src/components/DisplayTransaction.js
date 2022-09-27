@@ -21,7 +21,7 @@ const DisplayTransaction = ({transactions}) => {
     )
 
     return (
-        <div className='ui celled list'>
+        <div className='ui celled list' style={{'text-align': 'center'}}>
             {renderTransactions}
         </div>
     );

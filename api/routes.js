@@ -14,11 +14,13 @@ router
 })
 .param('postcode', async (postcode, ctx, next) =>
 {
+	//splitting postcode into incode and outcode by the space
 	let split = postcode.split(' ');
 	if(split.length > 1)
 	{
 		let outcode = split[0];
 		let incode = split[1];
+		//select query for both paramater to get the full post code
 		await fetch_from_db({incode: incode, outcode: outcode}, ctx, next);
 	}
 })
@@ -55,6 +57,7 @@ module.exports = (app) =>
 	.use(router.allowedMethods());
 };
 
+//reusing the query function
 async function fetch_from_db(data, ctx, next) {
 
 	ctx.lrProperty = await new lrProperty(data).fetch({
